@@ -1,6 +1,6 @@
 # Sliding-Blocks
 
-Using A* Search Algorithm to find the minimum number of moves required to solve a sliding blocks puzzle.
+Implemented A* Search Algorithm to find the minimum number of moves required to solve a sliding blocks puzzle.
 
 Example start board = [[1,2,3], [4,0,5]]
                                         
